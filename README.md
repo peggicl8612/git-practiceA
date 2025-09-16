@@ -73,3 +73,16 @@ bun run preview
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+
+```
+
+# 提交訊息
+feat: 新增功能
+fix: 修復bug
+docs: 更新文件
+style: 更新樣式
+refactor: 重構
+test: 新增測試
+chore: 更新雜項
+
+```
